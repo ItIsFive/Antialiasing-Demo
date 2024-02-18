@@ -1,1 +1,1 @@
-Python program example of showing the differences of using areasampling, pixelphasing and supersampling.
+Python's program example of showing the differences between areasampling, pixelphasing and supersampling.
